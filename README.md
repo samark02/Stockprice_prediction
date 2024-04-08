@@ -1,1 +1,1 @@
-Stock Price Prediciton Model
+ML Model Stock Price Prediciton
